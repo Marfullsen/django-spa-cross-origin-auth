@@ -4,6 +4,10 @@ Cookie based authentication, frontend and backend separated, cross origin.
 
 Original Article [here](https://testdriven.io/blog/django-spa-auth/)
 
+<div align="center">
+  <img src="./docs/img/logged_vue.png" alt="Logged Vue">
+</div>
+
 ## Updated
 
 - Bug with obsolete component solved using `--openssl-legacy-provider`
